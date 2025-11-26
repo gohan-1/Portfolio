@@ -100,7 +100,7 @@ export const projects = [
     des: "Animated portfolio",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/re.svg", "/node.png", "/ts.svg"],
-    link: "https://github.com/",
+    link: "https://github.com/gohan-1/Portfolio",
   },
 ];
 
