@@ -76,7 +76,7 @@ const Hero = () => {
             />
 
             <p className="text-center py-1 text-blue-100 md:tracking-wider text-sm md:text-lg lg:text-2xl">
-              Hi, I'm Vishnu
+            Hi, I&apos;m Vishnu
             </p>
 
             <a href="#about">
